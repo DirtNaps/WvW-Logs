@@ -1,0 +1,2 @@
+# WvW-Logs
+Logs
