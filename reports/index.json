@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260707-160648-s3v7",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-07T20:06:48.000Z",
+      "dateEnd": "2026-07-07T20:57:41.000Z",
+      "dateLabel": "7/7/2026, 4:06:48 PM - 7/7/2026, 4:57:41 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260707-160648-s3v7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 25
+      }
+    }
+  ]
+}
