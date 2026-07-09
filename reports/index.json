@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260709-151256-pa6z",
+      "title": "Lïquid Snake",
+      "commanders": [
+        "Lïquid Snake"
+      ],
+      "dateStart": "2026-07-09T19:12:56.000Z",
+      "dateEnd": "2026-07-09T19:44:54.000Z",
+      "dateLabel": "7/9/2026, 3:12:56 PM - 7/9/2026, 3:44:54 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260709-151256-pa6z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260707-160648-s3v7",
       "title": "C L A P P",
       "commanders": [
