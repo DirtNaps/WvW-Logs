@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-133859-94wl",
+      "title": "May Evergreen",
+      "commanders": [
+        "May Evergreen"
+      ],
+      "dateStart": "2026-07-12T17:38:59.000Z",
+      "dateEnd": "2026-07-12T18:04:27.000Z",
+      "dateLabel": "7/12/2026, 1:38:59 PM - 7/12/2026, 2:04:27 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260712-133859-94wl",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260711-210821-lpr0",
       "title": "Durgadurg",
       "commanders": [
