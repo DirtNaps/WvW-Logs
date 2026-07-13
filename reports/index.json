@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-203115-w9g5",
+      "title": "Alleria Highmore",
+      "commanders": [
+        "Alleria Highmore"
+      ],
+      "dateStart": "2026-07-13T00:31:15.000Z",
+      "dateEnd": "2026-07-13T01:01:20.000Z",
+      "dateLabel": "7/12/2026, 8:31:15 PM - 7/12/2026, 9:01:20 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260712-203115-w9g5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 33,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260712-133859-94wl",
       "title": "May Evergreen",
       "commanders": [
