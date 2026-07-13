@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-161322-xh0e",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-13T20:13:22.000Z",
+      "dateEnd": "2026-07-13T20:52:36.000Z",
+      "dateLabel": "7/13/2026, 4:13:22 PM - 7/13/2026, 4:52:36 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260713-161322-xh0e",
+      "summary": {
+        "borderlandsPct": 0.10526315789473684,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260712-203115-w9g5",
       "title": "Alleria Highmore",
       "commanders": [
