@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-194947-wyjy",
+      "title": "Randi Commandi",
+      "commanders": [
+        "Randi Commandi"
+      ],
+      "dateStart": "2026-07-13T23:49:47.000Z",
+      "dateEnd": "2026-07-14T00:15:00.000Z",
+      "dateLabel": "7/13/2026, 7:49:47 PM - 7/13/2026, 8:15:00 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260713-194947-wyjy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260713-161322-xh0e",
       "title": "C L A P P",
       "commanders": [
