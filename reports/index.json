@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-221700-c73k",
+      "title": "Mainesnowx",
+      "commanders": [
+        "Mainesnowx"
+      ],
+      "dateStart": "2026-07-14T02:17:00.000Z",
+      "dateEnd": "2026-07-14T02:45:50.000Z",
+      "dateLabel": "7/13/2026, 10:17:00 PM - 7/13/2026, 10:45:50 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260713-221700-c73k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260713-194947-wyjy",
       "title": "Randi Commandi",
       "commanders": [
