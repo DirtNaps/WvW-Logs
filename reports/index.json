@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-210259-wetn",
+      "title": "Clever Blackbird",
+      "commanders": [
+        "Clever Blackbird"
+      ],
+      "dateStart": "2026-07-15T01:02:59.000Z",
+      "dateEnd": "2026-07-15T02:02:03.000Z",
+      "dateLabel": "7/14/2026, 9:02:59 PM - 7/14/2026, 10:02:03 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260714-210259-wetn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260714-162837-ed9d",
       "title": "C L A P P",
       "commanders": [
