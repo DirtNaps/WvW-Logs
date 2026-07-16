@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-210037-i4b0",
+      "title": "Masa Ace",
+      "commanders": [
+        "Masa Ace"
+      ],
+      "dateStart": "2026-07-16T01:00:37.000Z",
+      "dateEnd": "2026-07-16T01:28:47.000Z",
+      "dateLabel": "7/15/2026, 9:00:37 PM - 7/15/2026, 9:28:47 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260715-210037-i4b0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260714-210259-wetn",
       "title": "Clever Blackbird",
       "commanders": [
