@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-195618-o5m7",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "dateStart": "2026-07-15T23:56:18.000Z",
+      "dateEnd": "2026-07-16T00:31:57.000Z",
+      "dateLabel": "7/15/2026, 7:56:18 PM - 7/15/2026, 8:31:57 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260715-195618-o5m7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260715-210037-i4b0",
       "title": "Masa Ace",
       "commanders": [
