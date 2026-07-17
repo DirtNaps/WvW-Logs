@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-145631-yv2i",
+      "title": "Aerizythae Moonfang",
+      "commanders": [
+        "Aerizythae Moonfang"
+      ],
+      "dateStart": "2026-07-17T18:56:31.000Z",
+      "dateEnd": "2026-07-17T20:06:09.000Z",
+      "dateLabel": "7/17/2026, 2:56:31 PM - 7/17/2026, 4:06:09 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260717-145631-yv2i",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260716-202212-brv8",
       "title": "Randimander",
       "commanders": [
