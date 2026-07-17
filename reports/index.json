@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-202212-brv8",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "dateStart": "2026-07-17T00:22:12.000Z",
+      "dateEnd": "2026-07-17T00:52:21.000Z",
+      "dateLabel": "7/16/2026, 8:22:12 PM - 7/16/2026, 8:52:21 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260716-202212-brv8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260716-153744-ga94",
       "title": "Itz Liquid",
       "commanders": [
