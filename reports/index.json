@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-210806-0s44",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "dateStart": "2026-07-19T01:08:06.000Z",
+      "dateEnd": "2026-07-19T01:50:20.000Z",
+      "dateLabel": "7/18/2026, 9:08:06 PM - 7/18/2026, 9:50:20 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260718-210806-0s44",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260717-145631-yv2i",
       "title": "Aerizythae Moonfang",
       "commanders": [
