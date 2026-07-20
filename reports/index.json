@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-205744-pnc3",
+      "title": "Sho Long I Tripped",
+      "commanders": [
+        "Sho Long I Tripped"
+      ],
+      "dateStart": "2026-07-20T00:57:44.000Z",
+      "dateEnd": "2026-07-20T01:52:51.000Z",
+      "dateLabel": "7/19/2026, 8:57:44 PM - 7/19/2026, 9:52:51 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260719-205744-pnc3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260718-210806-0s44",
       "title": "Durgadurg",
       "commanders": [
