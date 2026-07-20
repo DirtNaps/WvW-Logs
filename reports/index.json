@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260720-163334-i8ee",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-20T20:33:34.000Z",
+      "dateEnd": "2026-07-20T21:01:07.000Z",
+      "dateLabel": "7/20/2026, 4:33:34 PM - 7/20/2026, 5:01:07 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260720-163334-i8ee",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260719-205744-pnc3",
       "title": "Sho Long I Tripped",
       "commanders": [
