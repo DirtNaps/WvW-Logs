@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-162655-x9v0",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "dateStart": "2026-07-21T20:26:55.000Z",
+      "dateEnd": "2026-07-21T21:00:42.000Z",
+      "dateLabel": "7/21/2026, 4:26:55 PM - 7/21/2026, 5:00:42 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260721-162655-x9v0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260720-163334-i8ee",
       "title": "C L A P P",
       "commanders": [
