@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-211243-4kby",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "dateStart": "2026-07-29T01:12:43.000Z",
+      "dateEnd": "2026-07-29T01:53:00.000Z",
+      "dateLabel": "7/28/2026, 9:12:43 PM - 7/28/2026, 9:53:00 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260728-211243-4kby",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 34,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260728-162838-sjxv",
       "title": "C L A P P",
       "commanders": [
