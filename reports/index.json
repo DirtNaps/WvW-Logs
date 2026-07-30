@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-154543-jatc",
+      "title": "I Liquid Snakë I, Itz Liquid",
+      "commanders": [
+        "I Liquid Snakë I",
+        "Itz Liquid"
+      ],
+      "dateStart": "2026-07-30T19:45:43.000Z",
+      "dateEnd": "2026-07-30T20:20:52.000Z",
+      "dateLabel": "7/30/2026, 3:45:43 PM - 7/30/2026, 4:20:52 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260730-154543-jatc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260729-203733-pgmc",
       "title": "Randimander",
       "commanders": [
