@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-203733-pgmc",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "dateStart": "2026-07-30T00:37:33.000Z",
+      "dateEnd": "2026-07-30T01:07:22.000Z",
+      "dateLabel": "7/29/2026, 8:37:33 PM - 7/29/2026, 9:07:22 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260729-203733-pgmc",
+      "summary": {
+        "borderlandsPct": 0.4666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260728-211243-4kby",
       "title": "Durgadurg",
       "commanders": [
