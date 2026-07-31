@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-202113-z7bt",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "dateStart": "2026-07-31T00:21:13.000Z",
+      "dateEnd": "2026-07-31T01:00:56.000Z",
+      "dateLabel": "7/30/2026, 8:21:13 PM - 7/30/2026, 9:00:56 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260730-202113-z7bt",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260730-154543-jatc",
       "title": "I Liquid Snakë I, Itz Liquid",
       "commanders": [
