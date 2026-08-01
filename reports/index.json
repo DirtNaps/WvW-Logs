@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-164449-olcy",
+      "title": "Wvw Bag Farmer",
+      "commanders": [
+        "Wvw Bag Farmer"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-01T20:44:49.000Z",
+      "dateEnd": "2026-08-01T21:17:43.000Z",
+      "dateLabel": "8/1/2026, 4:44:49 PM - 8/1/2026, 5:17:43 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260801-164449-olcy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260731-235300-506a",
       "title": "P Ó R R",
       "commanders": [
