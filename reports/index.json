@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-211957-g7aq",
+      "title": "Sho Long I Tripped",
+      "commanders": [
+        "Sho Long I Tripped"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-08-02T01:19:57.000Z",
+      "dateEnd": "2026-08-02T01:51:14.000Z",
+      "dateLabel": "8/1/2026, 9:19:57 PM - 8/1/2026, 9:51:14 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260801-211957-g7aq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260801-164449-olcy",
       "title": "Wvw Bag Farmer",
       "commanders": [
