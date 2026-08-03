@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-155516-dcn9",
+      "title": "C L A P P, I M A U L I",
+      "commanders": [
+        "C L A P P",
+        "I M A U L I"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-03T19:55:16.000Z",
+      "dateEnd": "2026-08-03T20:55:02.000Z",
+      "dateLabel": "8/3/2026, 3:55:16 PM - 8/3/2026, 4:55:02 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260803-155516-dcn9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260801-211957-g7aq",
       "title": "Sho Long I Tripped",
       "commanders": [
