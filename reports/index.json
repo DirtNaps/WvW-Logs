@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-162226-cwfo",
+      "title": "C L A P P",
+      "commanders": [
+        "C L A P P"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-04T20:22:26.000Z",
+      "dateEnd": "2026-08-04T20:48:07.000Z",
+      "dateLabel": "8/4/2026, 4:22:26 PM - 8/4/2026, 4:48:07 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260804-162226-cwfo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 49,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260803-203538-6yw3",
       "title": "Randimander",
       "commanders": [
