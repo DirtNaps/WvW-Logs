@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-204657-mzq4",
+      "title": "Randi Commandi",
+      "commanders": [
+        "Randi Commandi"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-08-06T00:46:57.000Z",
+      "dateEnd": "2026-08-06T01:04:20.000Z",
+      "dateLabel": "8/5/2026, 8:46:57 PM - 8/5/2026, 9:04:20 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260805-204657-mzq4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260805-160931-tdg7",
       "title": "Liquid I I",
       "commanders": [
