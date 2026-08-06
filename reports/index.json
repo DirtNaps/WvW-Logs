@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-154950-vpz2",
+      "title": "I Snakë I",
+      "commanders": [
+        "I Snakë I"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-06T19:49:50.000Z",
+      "dateEnd": "2026-08-06T20:34:51.000Z",
+      "dateLabel": "8/6/2026, 3:49:50 PM - 8/6/2026, 4:34:51 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260806-154950-vpz2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20260805-204657-mzq4",
       "title": "Randi Commandi",
       "commanders": [
