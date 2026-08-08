@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-162630-3foy",
+      "title": "Jaxsynia",
+      "commanders": [
+        "Jaxsynia"
+      ],
+      "guild": {
+        "id": "56D3FEB7-133E-E911-81A8-F161567B2263",
+        "name": "Quaggan Imperial Army",
+        "tag": "Qi"
+      },
+      "dateStart": "2026-08-08T20:26:30.000Z",
+      "dateEnd": "2026-08-08T20:56:39.000Z",
+      "dateLabel": "8/8/2026, 4:26:30 PM - 8/8/2026, 4:56:39 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260808-162630-3foy",
+      "summary": {
+        "borderlandsPct": 0.045454545454545456,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260806-205320-9otj",
       "title": "Dynamite Funbags",
       "commanders": [
