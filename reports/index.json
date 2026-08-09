@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-202524-lhk5",
+      "title": "Elrênia",
+      "commanders": [
+        "Elrênia"
+      ],
+      "guild": {
+        "id": "28C90744-19BE-E411-A8E7-AC162DAE5A05",
+        "name": "Teh Devils Rejects",
+        "tag": "HELL"
+      },
+      "dateStart": "2026-08-09T00:25:24.000Z",
+      "dateEnd": "2026-08-09T01:07:43.000Z",
+      "dateLabel": "8/8/2026, 8:25:24 PM - 8/8/2026, 9:07:43 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260808-202524-lhk5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260808-162630-3foy",
       "title": "Jaxsynia",
       "commanders": [
