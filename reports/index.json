@@ -4,6 +4,41 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-144108-eft0",
+      "title": "Jaxsynia, Madlibz, Xunlai Doúble Agent",
+      "commanders": [
+        "Jaxsynia",
+        "Madlibz",
+        "Xunlai Doúble Agent"
+      ],
+      "guild": {
+        "id": "56D3FEB7-133E-E911-81A8-F161567B2263",
+        "name": "Quaggan Imperial Army",
+        "tag": "Qi"
+      },
+      "dateStart": "2026-08-09T18:41:08.000Z",
+      "dateEnd": "2026-08-09T19:28:44.000Z",
+      "dateLabel": "8/9/2026, 2:41:08 PM - 8/9/2026, 3:28:44 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260809-144108-eft0",
+      "summary": {
+        "borderlandsPct": 0.6842105263157895,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260808-202524-lhk5",
       "title": "Elrênia",
       "commanders": [
