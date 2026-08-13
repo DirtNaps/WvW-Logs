@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-201913-049h",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-08-13T00:19:13.000Z",
+      "dateEnd": "2026-08-13T00:58:51.000Z",
+      "dateLabel": "8/12/2026, 8:19:13 PM - 8/12/2026, 8:58:51 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260812-201913-049h",
+      "summary": {
+        "borderlandsPct": 0.09836065573770492,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 55,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260812-152253-bim7",
       "title": "Rufi The Bard",
       "commanders": [
