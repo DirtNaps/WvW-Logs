@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-164203-2xnf",
+      "title": "Lethal Latitude",
+      "commanders": [
+        "Lethal Latitude"
+      ],
+      "guild": {
+        "id": "56D3FEB7-133E-E911-81A8-F161567B2263",
+        "name": "Quaggan Imperial Army",
+        "tag": "Qi"
+      },
+      "dateStart": "2026-08-14T20:42:03.000Z",
+      "dateEnd": "2026-08-14T21:07:46.000Z",
+      "dateLabel": "8/14/2026, 4:42:03 PM - 8/14/2026, 5:07:46 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260814-164203-2xnf",
+      "summary": {
+        "borderlandsPct": 0.6226415094339622,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260813-200921-570d",
       "title": "Slay Me Softly",
       "commanders": [
