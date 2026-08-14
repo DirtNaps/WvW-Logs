@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-200921-570d",
+      "title": "Slay Me Softly",
+      "commanders": [
+        "Slay Me Softly"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-08-14T00:09:21.000Z",
+      "dateEnd": "2026-08-14T01:05:25.000Z",
+      "dateLabel": "8/13/2026, 8:09:21 PM - 8/13/2026, 9:05:25 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260813-200921-570d",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260813-162058-rhsp",
       "title": "Rufi The Bard",
       "commanders": [
