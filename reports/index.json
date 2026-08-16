@@ -4,6 +4,46 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-161933-aiya",
+      "title": "Jaxsena, Madlibz, Xunlai Doúble Agent",
+      "commanders": [
+        "Jaxsena",
+        "Madlibz",
+        "Xunlai Doúble Agent"
+      ],
+      "guild": {
+        "id": "56D3FEB7-133E-E911-81A8-F161567B2263",
+        "name": "Quaggan Imperial Army",
+        "tag": "Qi"
+      },
+      "dateStart": "2026-08-16T20:19:33.000Z",
+      "dateEnd": "2026-08-16T21:11:31.000Z",
+      "dateLabel": "8/16/2026, 4:19:33 PM - 8/16/2026, 5:11:31 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260816-161933-aiya",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260815-211049-3u1f",
       "title": "Durgadurg",
       "commanders": [
