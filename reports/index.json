@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-202329-xu49",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-08-17T00:23:29.000Z",
+      "dateEnd": "2026-08-17T01:43:24.000Z",
+      "dateLabel": "8/16/2026, 8:23:29 PM - 8/16/2026, 9:43:24 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260816-202329-xu49",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260816-161933-aiya",
       "title": "Jaxsena, Madlibz, Xunlai Doúble Agent",
       "commanders": [
