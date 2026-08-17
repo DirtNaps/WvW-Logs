@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-162615-svzf",
+      "title": "Itz Liquid",
+      "commanders": [
+        "Itz Liquid"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-17T20:26:15.000Z",
+      "dateEnd": "2026-08-17T20:58:22.000Z",
+      "dateLabel": "8/17/2026, 4:26:15 PM - 8/17/2026, 4:58:22 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260817-162615-svzf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260816-202329-xu49",
       "title": "Durgadurg",
       "commanders": [
