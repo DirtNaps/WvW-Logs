@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260818-162427-u4af",
+      "title": "C L V P P",
+      "commanders": [
+        "C L V P P"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-18T20:24:27.000Z",
+      "dateEnd": "2026-08-18T20:48:12.000Z",
+      "dateLabel": "8/18/2026, 4:24:27 PM - 8/18/2026, 4:48:12 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260818-162427-u4af",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260817-202717-ayb7",
       "title": "Slay Me Softly",
       "commanders": [
