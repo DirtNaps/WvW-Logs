@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-202717-ayb7",
+      "title": "Slay Me Softly",
+      "commanders": [
+        "Slay Me Softly"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-08-18T00:27:17.000Z",
+      "dateEnd": "2026-08-18T00:58:29.000Z",
+      "dateLabel": "8/17/2026, 8:27:17 PM - 8/17/2026, 8:58:29 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260817-202717-ayb7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260817-162615-svzf",
       "title": "Itz Liquid",
       "commanders": [
