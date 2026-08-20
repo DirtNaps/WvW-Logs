@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-154638-un39",
+      "title": "Liquid I I, Rufi The Bard",
+      "commanders": [
+        "Liquid I I",
+        "Rufi The Bard"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-20T19:46:38.000Z",
+      "dateEnd": "2026-08-20T21:01:48.654Z",
+      "dateLabel": "8/20/2026, 3:46:38 PM - 8/20/2026, 5:01:48 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260820-154638-un39",
+      "summary": {
+        "borderlandsPct": 0.4166666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20260819-210248-4o6z",
       "title": "Durgadurg",
       "commanders": [
