@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-151529-ve32",
+      "title": "Lethal Latitude",
+      "commanders": [
+        "Lethal Latitude"
+      ],
+      "guild": {
+        "id": "56D3FEB7-133E-E911-81A8-F161567B2263",
+        "name": "Quaggan Imperial Army",
+        "tag": "Qi"
+      },
+      "dateStart": "2026-08-21T19:15:29.000Z",
+      "dateEnd": "2026-08-21T20:01:45.397Z",
+      "dateLabel": "8/21/2026, 3:15:29 PM - 8/21/2026, 4:01:45 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260821-151529-ve32",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260820-211147-r4fv",
       "title": "Dynamite Funbags",
       "commanders": [
