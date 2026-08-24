@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-160102-1f41",
+      "title": "Necrorufus",
+      "commanders": [
+        "Necrorufus"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-24T20:01:02.000Z",
+      "dateEnd": "2026-08-24T20:52:45.394Z",
+      "dateLabel": "8/24/2026, 4:01:02 PM - 8/24/2026, 4:52:45 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260824-160102-1f41",
+      "summary": {
+        "borderlandsPct": 0.06818181818181818,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260823-211418-4cdj",
       "title": "Durgadurg",
       "commanders": [
