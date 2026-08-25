@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-202847-y03g",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-08-25T00:28:47.000Z",
+      "dateEnd": "2026-08-25T00:51:16.650Z",
+      "dateLabel": "8/24/2026, 8:28:47 PM - 8/24/2026, 8:51:16 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260824-202847-y03g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 52,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260824-160102-1f41",
       "title": "Necrorufus",
       "commanders": [
