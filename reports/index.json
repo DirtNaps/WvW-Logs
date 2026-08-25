@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260825-160218-z2l8",
+      "title": "Rufi The Bard",
+      "commanders": [
+        "Rufi The Bard"
+      ],
+      "guild": {
+        "id": "95940E87-8435-EE11-81B2-A840610878B3",
+        "name": "Thunder And Lightning Bolt",
+        "tag": "PÓRR"
+      },
+      "dateStart": "2026-08-25T20:02:18.000Z",
+      "dateEnd": "2026-08-25T20:52:13.846Z",
+      "dateLabel": "8/25/2026, 4:02:18 PM - 8/25/2026, 4:52:13 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260825-160218-z2l8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260824-202847-y03g",
       "title": "Randimander",
       "commanders": [
