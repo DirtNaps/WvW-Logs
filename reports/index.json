@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-214227-upc4",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-08-30T01:42:27.000Z",
+      "dateEnd": "2026-08-30T02:00:28.220Z",
+      "dateLabel": "8/29/2026, 9:42:27 PM - 8/29/2026, 10:00:28 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260829-214227-upc4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 37,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260827-213202-mfcx",
       "title": "Dynamite Funbags",
       "commanders": [
