@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260902-201727-5haz",
+      "title": "Randimander",
+      "commanders": [
+        "Randimander"
+      ],
+      "guild": {
+        "id": "0AB7068E-AD8D-EE11-8465-02315AB41281",
+        "name": "The Tides Of Tyria",
+        "tag": "Crew"
+      },
+      "dateStart": "2026-09-03T00:17:27.000Z",
+      "dateEnd": "2026-09-03T00:57:50.267Z",
+      "dateLabel": "9/2/2026, 8:17:27 PM - 9/2/2026, 8:57:50 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260902-201727-5haz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20260902-213016-9zh5",
       "title": "Durgadurg",
       "commanders": [
