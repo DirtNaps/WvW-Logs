@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-213417-jb5y",
+      "title": "Dynamite Funbags",
+      "commanders": [
+        "Dynamite Funbags"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-09-04T01:34:17.000Z",
+      "dateEnd": "2026-09-04T01:57:42.658Z",
+      "dateLabel": "9/3/2026, 9:34:17 PM - 9/3/2026, 9:57:42 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260903-213417-jb5y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260903-145556-zure",
       "title": "Rufi The Bard",
       "commanders": [
