@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-233446-umk4",
+      "title": "Sho Long I Tripped",
+      "commanders": [
+        "Sho Long I Tripped"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-09-05T03:34:46.000Z",
+      "dateEnd": "2026-09-05T04:46:20.736Z",
+      "dateLabel": "9/4/2026, 11:34:46 PM - 9/5/2026, 12:46:20 AM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260904-233446-umk4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260903-193327-icme",
       "title": "Randimander",
       "commanders": [
