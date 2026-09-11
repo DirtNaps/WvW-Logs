@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-212208-zcp8",
+      "title": "Dynamite Funbags",
+      "commanders": [
+        "Dynamite Funbags"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-09-11T01:22:08.000Z",
+      "dateEnd": "2026-09-11T02:10:00.749Z",
+      "dateLabel": "9/10/2026, 9:22:08 PM - 9/10/2026, 10:10:00 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20260910-212208-zcp8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260909-203127-4ckz",
       "title": "Randimander",
       "commanders": [
