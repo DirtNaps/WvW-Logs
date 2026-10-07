@@ -3,7 +3,45 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-212400-bzn0",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-10-07T01:24:00.000Z",
+      "dateEnd": "2026-10-07T01:54:34.767Z",
+      "dateLabel": "10/6/2026, 9:24:00 PM - 10/6/2026, 9:54:34 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20261006-212400-bzn0",
+      "publishedBy": "DirtNaps",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 9
+      }
+    },
     {
       "id": "20261003-205745-lbly",
       "title": "Durgadurg",
