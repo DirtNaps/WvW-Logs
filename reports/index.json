@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261008-204705-6n87",
+      "title": "Dynamite Funbags",
+      "commanders": [
+        "Dynamite Funbags"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-10-09T00:47:05.000Z",
+      "dateEnd": "2026-10-09T01:58:20.983Z",
+      "dateLabel": "10/8/2026, 8:47:05 PM - 10/8/2026, 9:58:20 PM",
+      "url": "https://DirtNaps.github.io/WvW-Logs/?report=20261008-204705-6n87",
+      "publishedBy": "DirtNaps",
+      "summary": {
+        "borderlandsPct": 0.7307692307692307,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20261007-205307-prdh",
       "title": "Durgadurg",
       "commanders": [
